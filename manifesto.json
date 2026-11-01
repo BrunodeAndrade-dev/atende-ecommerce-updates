@@ -1,48 +1,52 @@
 {
   "schema_version": 1,
   "format": "vp-encrypted-updates-v1",
-  "signing_pubkey_sha256": "df3ac167845a38006d49cbafc11bd94b4f735bfac6a4fdc84f657969ee9c974b",
+  "signing_pubkey_sha256": "3b88f2095649f539cc1866ba7dd2c74b438f66d2b631d1da9f0e0115f0693e1f",
   "plugins": {
     "assistente-ecommerce-junior": {
       "free": {
-        "version": "1.6.9",
-        "portable_build_id": "778df41f5470e6f0",
-        "file": "assistente-ecommerce-junior-1.6.9-free.zip.vpenc",
-        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/assistente-ecommerce-junior-1.6.9-free.zip.vpenc",
-        "sha256_cipher": "cbd55bba87b1d8a78b79d0b7c595878b0b450bda67b40090a5ec9321b6b6f327",
-        "size_cipher": 2602717,
-        "aad": "assistente-ecommerce-junior|free|1.6.9|778df41f5470e6f0"
+        "version": "1.6.14",
+        "portable_build_id": "2d09d7983cadd816",
+        "release_sequence": null,
+        "file": "assistente-ecommerce-junior-1.6.14-free.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/assistente-ecommerce-junior-1.6.14-free.zip.vpenc",
+        "sha256_cipher": "01de46b826756d4349d699bf4a96fadf9d2b7d3b52640506f615d9833fb7aa6e",
+        "size_cipher": 3214829,
+        "aad": "assistente-ecommerce-junior|free|1.6.14|2d09d7983cadd816"
       },
       "plus": {
-        "version": "1.6.9",
-        "portable_build_id": "778df41f5470e6f0",
-        "file": "assistente-ecommerce-junior-1.6.9-plus.zip.vpenc",
-        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/assistente-ecommerce-junior-1.6.9-plus.zip.vpenc",
-        "sha256_cipher": "d1bf61a06e93fc352d952ca12fade7f89c6c2d568a45ca50a59890e22eb225fd",
-        "size_cipher": 2599494,
-        "aad": "assistente-ecommerce-junior|plus|1.6.9|778df41f5470e6f0"
+        "version": "1.6.14",
+        "portable_build_id": "13b5e4eba32af307",
+        "release_sequence": null,
+        "file": "assistente-ecommerce-junior-1.6.14-plus.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/assistente-ecommerce-junior-1.6.14-plus.zip.vpenc",
+        "sha256_cipher": "efbfb6fadcafed5a428ad3ed1b0aac6eb27dad75ce132e12dc0876e8967ccee1",
+        "size_cipher": 3197245,
+        "aad": "assistente-ecommerce-junior|plus|1.6.14|13b5e4eba32af307"
       }
     },
     "atendente-gpt": {
       "free": {
-        "version": "1.7.9",
-        "portable_build_id": "4c7a2b516ae59469",
-        "file": "atendente-gpt-1.7.9-free.zip.vpenc",
-        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/atendente-gpt-1.7.9-free.zip.vpenc",
-        "sha256_cipher": "b16a2d5e5bcab1158b8f07dc6d78ec71d5d4ecee99637bc70f23e35bd834e491",
-        "size_cipher": 62388,
-        "aad": "atendente-gpt|free|1.7.9|4c7a2b516ae59469"
+        "version": "1.7.10",
+        "portable_build_id": "fc6218974ad157ab",
+        "release_sequence": null,
+        "file": "atendente-gpt-1.7.10-free.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/atendente-gpt-1.7.10-free.zip.vpenc",
+        "sha256_cipher": "a19f2c77eeb1ead0b610d7ab217353fa926cbefadada3bb95616ba84f8b1bb9a",
+        "size_cipher": 79577,
+        "aad": "atendente-gpt|free|1.7.10|fc6218974ad157ab"
       },
       "plus": {
-        "version": "1.7.9",
-        "portable_build_id": "4c7a2b516ae59469",
-        "file": "atendente-gpt-1.7.9-plus.zip.vpenc",
-        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/atendente-gpt-1.7.9-plus.zip.vpenc",
-        "sha256_cipher": "963a71eb17ea730ac0259c0bcbc19e9268c1424514dc24b0a376ff33f4e87ebd",
-        "size_cipher": 59152,
-        "aad": "atendente-gpt|plus|1.7.9|4c7a2b516ae59469"
+        "version": "1.7.10",
+        "portable_build_id": "4d959f52a51c19bf",
+        "release_sequence": null,
+        "file": "atendente-gpt-1.7.10-plus.zip.vpenc",
+        "url": "https://brunodeandradevpgroup.github.io/atende-ecommerce-updates/packages/atendente-gpt-1.7.10-plus.zip.vpenc",
+        "sha256_cipher": "7702f563115155bed5312fc68b34b2f41a592e75498bccf10cea00244dac1e8a",
+        "size_cipher": 64536,
+        "aad": "atendente-gpt|plus|1.7.10|4d959f52a51c19bf"
       }
     }
   },
-  "signature_b64": "DpNdKHf42bGsqUe3bSpWGHXziTA65Y2ZaeW1aAGxBwhpJTZDk+FECMMwPNu0l1Ch0u9gkKaQR99aWpKFf9bUBQ=="
+  "signature_b64": "X8C3+V8hDH2/exvLWShMAjHRanbVghyQlDg0PvgyA7zWLW6ULbbAxLXYcCnZWKuVZiG4DJjoMQKRNMbSEg1MBg=="
 }
